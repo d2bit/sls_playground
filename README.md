@@ -8,3 +8,9 @@ sls login
 
 sls deploy
 ```
+
+## Playing in localhost
+
+```
+sls offline start
+```

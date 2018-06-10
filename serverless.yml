@@ -12,3 +12,5 @@ functions:
     events:
       - http: GET /
 
+plugins:
+  - serverless-offline

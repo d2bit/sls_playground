@@ -1,0 +1,23 @@
+{
+  "name": "sls_playground",
+  "version": "1.0.0",
+  "description": "Testing & playing with serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2bit/sls_playground.git"
+  },
+  "keywords": [],
+  "author": "d2bit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d2bit/sls_playground/issues"
+  },
+  "homepage": "https://github.com/d2bit/sls_playground#readme",
+  "devDependencies": {
+    "serverless-offline": "^3.25.4"
+  }
+}
